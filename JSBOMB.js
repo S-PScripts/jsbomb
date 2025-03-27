@@ -1,9 +1,13 @@
-// I don't care what you do with this anymore
-// you need to do something different to find x-token but its similar ok
+// JSBOMBING IS DEAD THERE IS NO POINT USING THIS
+// JSBOMBING IS DEAD THERE IS NO POINT USING THIS
+// JSBOMBING IS DEAD THERE IS NO POINT USING THIS
+
+// You need to do something different to find x-token, but it's similar.
 // If you need more help, check my YT video on my YT channel.
 // If you still can't figure it out, you're a skid.
+// I didn't the JSBOMB here, only on my scripts repo, but I won't delete it now. Just don't use it.
 
-// This Scratch Javascript remix bomb was made by RCUTB, not me (TS2021).
+// This Scratch Javascript remix bomb was made by Derv, not me (TS2021).
 // To use this, execute the code below into your console (Inspect Element - Console section)
 
 // You will need to include the project.json (check the bottom of this page to see how to get this)
@@ -104,6 +108,9 @@ jsbomb = async function() {
 
 jsbomb();
 
+// JSBOMBING IS DEAD THERE IS NO POINT USING THIS
+// JSBOMBING IS DEAD THERE IS NO POINT USING THIS
+// JSBOMBING IS DEAD THERE IS NO POINT USING THIS
 
 // YOU CAN DELETE EVERYTHING BELOW THIS LINE
 
@@ -130,3 +137,7 @@ jsbomb();
 // 4. Open the folder created by the zip
 // 5. Open the json file.
 // 6. Copy the text in it.
+
+// JSBOMBING IS DEAD THERE IS NO POINT USING THIS
+// JSBOMBING IS DEAD THERE IS NO POINT USING THIS
+// JSBOMBING IS DEAD THERE IS NO POINT USING THIS
