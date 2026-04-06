@@ -1,4 +1,5 @@
 // JSBOMBING IS DEAD THERE IS NO POINT USING THIS
+// THIS PROBABLY WON'T WORK ANYMORE DUE TO SCRATCH UPDATES (FIND THE SEAHORSEBOMB YOURSELF)
 
 // You need to do something different to find x-token, but it's similar.
 // If you can't figure it out, you're a skid.
